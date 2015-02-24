@@ -1,0 +1,8 @@
+E:\Programming\Projects\eDownloader\eDownloader\bin\Debug\eDownloader.exe
+E:\Programming\Projects\eDownloader\eDownloader\bin\Debug\eDownloader.pdb
+E:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.Form1.resources
+E:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.Properties.Resources.resources
+E:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.csproj.GenerateResource.Cache
+E:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.exe
+E:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.pdb
