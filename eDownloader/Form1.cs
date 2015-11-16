@@ -12,7 +12,6 @@ namespace eDownloader
             InitializeComponent();
         }
 
-
         WebClient wc = new WebClient();
 
         private void btnDownload_Click(object sender, EventArgs e)
