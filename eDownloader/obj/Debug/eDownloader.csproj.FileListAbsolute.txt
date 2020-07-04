@@ -6,3 +6,11 @@ E:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.Properties
 E:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.csproj.GenerateResource.Cache
 E:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.exe
 E:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.pdb
+D:\Programming\Projects\eDownloader\eDownloader\bin\Debug\eDownloader.exe
+D:\Programming\Projects\eDownloader\eDownloader\bin\Debug\eDownloader.pdb
+D:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.Form1.resources
+D:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.Properties.Resources.resources
+D:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.csproj.GenerateResource.cache
+D:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.exe
+D:\Programming\Projects\eDownloader\eDownloader\obj\Debug\eDownloader.pdb
